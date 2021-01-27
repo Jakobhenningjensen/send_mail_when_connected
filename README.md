@@ -12,4 +12,4 @@ export EMAIL_PWD="strong_password"
 to `~/.profile`
 
 **3)**
-go to `/etc/NetworkManager/dispatcher` and add the `send_mail` file here.
+go to `/etc/NetworkManager/dispatcher.d` and add the `send_mail` file here.
